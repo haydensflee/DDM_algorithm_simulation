@@ -23,7 +23,7 @@ The UI was designed in conjunction with the user stories that were provided by t
 - Agent Properties: Contains chgeck boxes, text edit boxes, sliders, and buttons for the user to adjust the currently selected agent.
 Along the bottom of the UI is an area dedicated to simulation information. The user can select whether they want to see the simulation in real time, which DDM algorithm they wish to use, and buttons for config file generation/running the simulation.
 
-Some additional screenshots of the simulation and metrics analysis screens have been provided. A demonstration of the program can be found in the repository, with commentary also provided in the presentation recording.
+Some additional screenshots of the simulation and metrics analysis screens have been provided. DDM_Demo.mp4 gives a demonstration of the program in action.
 
 **Simulation**
 
