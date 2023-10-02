@@ -1,0 +1,38 @@
+{
+    "aliens": [
+        {
+            "yPos": 82,
+            "ID": 0,
+            "xPos": 6
+        },
+        {
+            "yPos": 93,
+            "ID": 1,
+            "xPos": 92
+        }
+    ],
+    "Monkes": [
+        {
+            "yPos": 35,
+            "Talk Range": 10,
+            "Shoot Range": 10,
+            "ID": 0,
+            "xPos": 58
+        },
+        {
+            "yPos": 26,
+            "Talk Range": 10,
+            "Shoot Range": 10,
+            "ID": 1,
+            "xPos": 39
+        },
+        {
+            "yPos": 70,
+            "Talk Range": 10,
+            "Shoot Range": 10,
+            "ID": 2,
+            "xPos": 66
+        }
+    ],
+    "Algorithm": "-----"
+}

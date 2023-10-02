@@ -1,0 +1,54 @@
+{
+    "Aliens": [
+        {
+            "Speed": 0.5,
+            "yPos": 45,
+            "Vision Range": 25,
+            "ID": 0,
+            "xPos": 50
+        },
+        {
+            "Speed": 0.5,
+            "yPos": 54,
+            "Vision Range": 25,
+            "ID": 1,
+            "xPos": 67
+        },
+        {
+            "Speed": 0.5,
+            "yPos": 4,
+            "Vision Range": 25,
+            "ID": 2,
+            "xPos": 16
+        }
+    ],
+    "Cowboys": [
+        {
+            "yPos": 34,
+            "Talk Range": 25,
+            "Shoot Range": 25,
+            "ID": 0,
+            "xPos": 31
+        },
+        {
+            "yPos": 10,
+            "Talk Range": 25,
+            "Shoot Range": 25,
+            "ID": 1,
+            "xPos": 10
+        },
+        {
+            "yPos": 20,
+            "Talk Range": 25,
+            "Shoot Range": 25,
+            "ID": 2,
+            "xPos": 20
+        }
+    ],
+    "Other": [
+        {
+            "Algorithm": "PAXOS Algorithm",
+            "Headerless": true
+        }
+    ]
+}
